@@ -1,0 +1,10 @@
+Package: com.aohuiliu.cleanwechat
+Name: CleanWechat
+Description: 给你一个干净的微信。支持A12
+Depends: mobilesubstrate
+Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Author: AohuiLiu <x345242281@outlook.com>
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.0.1
